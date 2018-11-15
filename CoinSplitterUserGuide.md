@@ -1,12 +1,12 @@
 ﻿# Coin Splitter User Guide
 
-标签（空格分隔）： 教程
+教程
 
 ---
 
-作者: *Mark B. Lundeberg*
-翻译者：赵斌BTC.com
-校准者：刘馥祎BTC.com
+作者: *Mark B. Lundeberg*  
+翻译者：赵斌BTC.com  
+校准者：刘馥祎BTC.com  
 Repository: [https://github.com/markblundeberg/coinsplitter_checkdatasig][1]
 
 > [TOC]
