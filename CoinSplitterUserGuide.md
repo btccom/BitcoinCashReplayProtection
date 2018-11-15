@@ -7,12 +7,13 @@
 作者: *Mark B. Lundeberg*  
 翻译者：赵斌BTC.com  
 校准者：刘馥祎BTC.com  
-Repository: [https://github.com/markblundeberg/coinsplitter_checkdatasig][1]
+Repository: [https://github.com/markblundeberg/coinsplitter_checkdatasig][1]  
+Electron Cash改版下载地址：https://github.com/markblundeberg/coinsplitter_checkdatasig/releases
 
 > [TOC]
 
 ## 描述
-该软件是Electron Cash的一种变体，它具有在2018年11月15日开始存在的两种不同比特币现金共识规则集之间拆分币（BCH、BSV）的附加功能。
+该软件是Electron Cash的一个改版，它具有在2018年11月15日开始存在的两种不同比特币现金共识规则集之间拆分币（BCH、BSV）的附加功能。
 
 该[工作原理][2]是创建一个币（即交易输出），可以通过在比特币脚本使用OP_IF分支的两种方式来花费：
 
